@@ -1,0 +1,30 @@
+.component {
+    position: relative;
+    background-color: #F0F0F5;
+}
+.title {
+text-align: center;
+font-size: 100px;
+font-weight: 700;
+color: #2C3E50;
+}
+.tagline {
+    text-align: center;
+    font-size: 50px;
+    color: #949494;
+}
+
+.demo_wrap {
+text-align: center;
+}
+
+.demo {
+    display: inline-block;
+    background-color: #1B263B;
+    border-radius: 10px;
+    padding: 8px 40px;
+    color: #F0F0F5;
+    margin-top: 10px;
+    font-size: 18px;
+    
+}
